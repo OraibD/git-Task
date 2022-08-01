@@ -8,6 +8,10 @@
   <body>
     
     <p>Hello World!</p>
+<<<<<<< HEAD
 <p>Hello from right branch!</p>
+=======
+<p>Hello from left branch!</p>
+>>>>>>> updateLeft
   </body>
 </html>
